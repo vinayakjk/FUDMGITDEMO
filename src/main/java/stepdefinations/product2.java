@@ -37,6 +37,7 @@ public class product2 {
 			productList.add("Apple Tab");
 			productList.add("Apple Watch");
 			
+			System.out.println("Test prnite");
 		return productList;
 		
 	}
